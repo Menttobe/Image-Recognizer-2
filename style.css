@@ -1,0 +1,17 @@
+body{
+    color:darkgreen;
+    background:orange;
+
+}
+.heading{
+width:80%;
+font-size:22px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:rgb(0, 0, 0);
+}
+#camera{
+    border:2px dashed crimson;
+    width:350px;
+    height:300px;
+}
